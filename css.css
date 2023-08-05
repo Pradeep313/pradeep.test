@@ -262,7 +262,7 @@ header label {
         
     }
      */
-}
+
 
 .navbar-1 ul li:focus-within > ul:hover,
 .navbar-1 ul li ul:hover > li:hover {
@@ -293,6 +293,8 @@ header label {
     }
         
 } */
+
+}
 
 
 @media(max-width:493px){
