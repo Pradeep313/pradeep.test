@@ -168,7 +168,7 @@ header label {
        padding: 10px 0;
      }
  }
- @media(max-width:991px){
+ @media(max-width:992px){
     .logoname{
         display: flex;
         justify-content: center;
@@ -185,14 +185,7 @@ header label {
     }
 
 
-    .logoname{
-       display: flex;
-       justify-content: center;
-       align-items: center;
-       width: 110vw;
-
-    }
-
+  
 
 
     .navbar-1 {
