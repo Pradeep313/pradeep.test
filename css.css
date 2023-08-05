@@ -156,10 +156,32 @@ header label {
         font-size: 12px;
     }
  }
+ @media(max-width:991.5px){
+    .logoname{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 110vw;
+ 
+     }
+     .logoname-1 img{
+       padding: 10px 0;
+     }
+ }
  @media(max-width:991px){
 
     #rd-navbar-nav-wrap-1{
         height: 156vh;
+
+    }
+
+
+    .logoname{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       width: 110vw;
+
     }
 
 
@@ -264,3 +286,40 @@ header label {
     }
         
 } */
+
+
+@media(max-width:493px){
+    .logoname{
+        width: 260px;
+    }
+
+}
+@media(max-width:425px){
+    .logoname{
+        width: 250px;
+    }
+}
+@media(max-width:394px){
+    .logoname{
+        width: 200px;
+    }
+}
+@media(max-width:371px){
+    .logoname{
+        width: 170px;
+    }
+}
+@media(max-width:320px){
+    .logoname{
+        width: 150px;
+    }
+
+}
+@media(max-width:281px){
+    .logoname{
+        width: 135px;
+    }
+
+}
+
+
