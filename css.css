@@ -168,7 +168,7 @@ header label {
        padding: 10px 0;
      }
  }
- @media(max-width:990.5px){
+ @media(max-width:990.98px){
     .logoname{
         display: flex;
         justify-content: center;
