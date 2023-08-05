@@ -146,7 +146,13 @@ header label {
 
 
 
+ @media(max-width:1980px){
+    .logoname-1 img{
+        height:4vw;
+    }
+}
  @media(max-width:1130px){
+     
     .navbar-1{
         font-size: 13px;
     }
