@@ -173,9 +173,11 @@ header label {
         display: flex;
         justify-content: center;
         align-items: center;
-        width: 110vw;
+        /* width: 110vw; */
  
      }
+
+    
 
     #rd-navbar-nav-wrap-1{
         /* height: 156vh; */
