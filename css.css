@@ -162,13 +162,13 @@ header label {
         font-size: 12px;
     }
  }
- @media(max-width:992px){
+ @media(max-width:993px){
    
      .logoname-1 img{
        padding: 10px 0;
      }
  }
- @media(max-width:992px){
+ @media(max-width:990.5px){
     .logoname{
         display: flex;
         justify-content: center;
@@ -180,7 +180,7 @@ header label {
     
 
     #rd-navbar-nav-wrap-1{
-        /* height: 156vh; */
+        height: 156vh;
 
     }
 
