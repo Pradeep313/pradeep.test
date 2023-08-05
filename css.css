@@ -169,6 +169,10 @@ header label {
      }
  }
  @media(max-width:990.98px){
+
+    body{
+        display: none;
+    }
     .logoname{
         display: flex;
         justify-content: center;
@@ -180,7 +184,7 @@ header label {
     
 
     #rd-navbar-nav-wrap-1{
-        height: 156vh;
+        height: 100%;
 
     }
 
