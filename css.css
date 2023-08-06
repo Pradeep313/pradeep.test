@@ -7,10 +7,9 @@
     text-decoration: none;
 } */
 
-/* body{
-    min-height: 100vh;
-    background-color: yellow;
-} */
+body{
+   touch-action: pan-y;
+}
 
 .rd-navbar-main-outer{
    
