@@ -7,8 +7,13 @@
     text-decoration: none;
 } */
 
+html{
+   height: -webkit-fill-available;
+    
+}
 body{
    touch-action: pan-y;
+   height: -webkit-fill-available;
 }
 
 .rd-navbar-main-outer{
