@@ -9,7 +9,7 @@
 
 html{
    height: -webkit-fill-available;
-    
+
 }
 body{
    touch-action: pan-y;
@@ -58,7 +58,7 @@ header .logo{
     
     padding:10px 20px ;
     position: relative;
-    z-index: 10000;
+    /* z-index: 10000; */
     float: left;
 }
 .navbar-1 ul li a{
@@ -172,24 +172,26 @@ header label {
        padding: 10px 0;
      }
  }
- @media(max-width:990.98px){
+ @media(max-width:992px){
 
     /* body{
         display: none;
     } */
-    .logoname{
+  .logoname{
         display: flex;
         justify-content: center;
         align-items: center;
+
+        /* align-items: center; */
         /* width: 110vw; */
  
-     }
+     } 
 
     
 
     #rd-navbar-nav-wrap-1{
         top: 57px;
-        width: 80vw;
+        width: 80%;
         padding: 0 0 230px;
         height: 95vh;
 
@@ -214,6 +216,8 @@ header label {
     }
 
     .navbar-1 ul li{
+
+        position: relative;
     
       
         width: 100%;
@@ -301,7 +305,9 @@ header label {
 } */
 
 }
-
+@media (max-width:) {
+    
+}
 
 @media(max-width:493px){
     .logoname{
